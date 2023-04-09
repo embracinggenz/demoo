@@ -227,6 +227,10 @@ html {
     position: relative;
     transform: translateY(200px);
   }
+  .header-image img {
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+  }
   
   .menu {
     margin-left: auto;
